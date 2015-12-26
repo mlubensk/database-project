@@ -10,3 +10,4 @@ Basic Starting Point For Projects
 - Java
 - Maven
 - Selenium
+- QA Testing
